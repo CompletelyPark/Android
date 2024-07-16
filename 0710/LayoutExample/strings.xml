@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutExample</string>
+    <string name="text1">화면 구성을 할 때 다양한 위젯들을 배우기 위해 안드로이드에서는 배치 관리자를 제공하고 있다\n여기서는 다양한 언어 학습을 진행하겠습니다.</string>
+    <string name="text2">Java Code로 구성한 화면</string>
+</resources>

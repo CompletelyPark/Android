@@ -1,0 +1,29 @@
+android:
+
+layout_width
+layout_height
+    match_parent -- 부모 위젯의 크기 만큼
+    wrap_content -- 현재 위젯의 내용 만큼
+    숫자로 값 직접 지정
+
+layout_margin - 부모 위젯, 다른 위젯과의 간격
+background - 배경 색, 이미지 지정
+
+padding
+    paddingTop
+    paddingBottom
+    paddingLeft, start
+    paddingRight, end
+
+내용물 위치 지정
+gravity
+
+Intent 종류
+1. 암시적 인텐트
+2. 명시적 인텐트
+
+Linearlayout
+    주요 속성: orientation - 내부 구성 요소의 방향 지정 (수직 LinearLayout.VERTICAL, 수평 LinearLayout.HORIZONTAL)
+    구성 요소
+        weight - 내부 구성 요소의 남는 공간을 나누 어서 비율에 해당 하는 만큼 준다
+        gravity - location adjust call to parent view
